@@ -1,24 +1,26 @@
-# ABC - Front-end Developer
+# Nông Việt Trường - Front-end Developer
 
-## Giới thiệu
+## Introduction
 
-Xin chào! Tôi là **ABC**, một lập trình viên front-end với đam mê tạo ra những trải nghiệm web tuyệt vời. Tôi có kinh nghiệm làm việc với nhiều công nghệ và framework khác nhau để xây dựng các ứng dụng web hiện đại, mượt mà và đáp ứng.
+Hello! I am **Nông Việt Trường**, a front-end developer passionate about creating outstanding web experiences. I have experience working with various technologies and frameworks to build modern, smooth, and responsive web applications.
 
-## Kỹ năng
+## Skills
 
-### Ngôn ngữ lập trình
+### Programming Languages
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 
-### Front-end Frameworks và Libraries
+### Front-end Frameworks and Libraries
 
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ### Back-end Frameworks
 
@@ -26,21 +28,35 @@ Xin chào! Tôi là **ABC**, một lập trình viên front-end với đam mê t
 - ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-## Dự án tiêu biểu
+### State Management
 
-### [Tên Dự Án 1](link-to-project-1)
-Mô tả ngắn gọn về dự án này và các công nghệ đã sử dụng.
+- ![Recoil](https://img.shields.io/badge/-Recoil-000000?style=flat-square&logo=recoil&logoColor=white)
+- ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-### [Tên Dự Án 2](link-to-project-2)
-Mô tả ngắn gọn về dự án này và các công nghệ đã sử dụng.
+### UI Libraries and Tools
 
-### [Tên Dự Án 3](link-to-project-3)
-Mô tả ngắn gọn về dự án này và các công nghệ đã sử dụng.
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+- ![ShadCN UI](https://img.shields.io/badge/-ShadCN%20UI-000000?style=flat-square&logo=shadcn&logoColor=white)
+- ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+- ![Flowbite](https://img.shields.io/badge/-Flowbite-000000?style=flat-square&logo=flowbite&logoColor=white)
+- ![Aeternity](https://img.shields.io/badge/-Aeternity-2F2F2F?style=flat-square&logo=aeternity&logoColor=white)
 
-## Liên hệ
+### Tools
 
-- **Email**: [abc@example.com](mailto:abc@example.com)
-- **LinkedIn**: [your-profile](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [your-github](https://github.com/your-github)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-Cảm ơn bạn đã ghé thăm trang của tôi!
+
+## Contact
+
+- **Email**: (mailto:nongviettruong12@gmail.com)
+- **LinkedIn**:(https://www.linkedin.com/in/nongviettruong12)
+- **GitHub**: (https://github.com/nongviettruong12)
+
+Thank you for visiting my profile!

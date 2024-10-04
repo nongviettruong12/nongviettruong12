@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I am **Nông Việt Trường**,my main skill a **JAVASCRIPT**. a front-end developer passionate about creating outstanding web experiences. I have experience working with various technologies and frameworks to build modern, smooth, and responsive web applications.
+Hello! I am **Nông Việt Trường**, my main skill a **JAVASCRIPT**. a front-end developer passionate about creating outstanding web experiences. I have experience working with various technologies and frameworks to build modern, smooth, and responsive web applications.
 
 ## Skills
 

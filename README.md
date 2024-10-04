@@ -36,7 +36,6 @@ Hello! I am **Nông Việt Trường**,my main skill a **JAVASCRIPT**. a front-e
 - ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 - ![Flowbite](https://img.shields.io/badge/-Flowbite-000000?style=flat-square&logo=flowbite&logoColor=white)
-- ![Aeternity](https://img.shields.io/badge/-Aeternity-2F2F2F?style=flat-square&logo=aeternity&logoColor=white)
 
 ### Tools
 

@@ -19,7 +19,6 @@ Hello! I am **Nông Việt Trường**, my main skill a **JAVASCRIPT**. A front-
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ### Back-end Frameworks
 
@@ -47,7 +46,7 @@ Hello! I am **Nông Việt Trường**, my main skill a **JAVASCRIPT**. A front-
 
 ## Contact
 
-- **Email**: (mailto:nongviettruong12@gmail.com)
+- **Email**: (mailto:nongviettruong.work@gmail.com)
 - **LinkedIn**:(https://www.linkedin.com/in/nongviettruong12)
 - **GitHub**: (https://github.com/nongviettruong12)
 
